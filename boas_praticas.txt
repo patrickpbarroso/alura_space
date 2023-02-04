@@ -1,0 +1,4 @@
+Usar a virtualenv para isolar as dependências e evitar frustrações futuras com o projeto
+
+Criar um arquivo requirements.txt para armazenar as informações sobre as dependências do projeto (pip freeze requirements.txt)
+
