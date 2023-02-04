@@ -1,3 +1,0 @@
-django-admin startproject setup .
-
-python manage.py runserver
